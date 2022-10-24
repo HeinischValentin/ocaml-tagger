@@ -1,0 +1,4 @@
+(executable
+ (public_name tagdb)
+ (name main)
+ (libraries tagdb))
